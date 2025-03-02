@@ -1,5 +1,5 @@
 +++
-date = '2025-03-02T12:32:09-05:00'
+date = '2025-03-02T13:05:09-05:00'
 title = 'Making of the Dukies'
 desc = "The process of knitting and crocheting my own Duke Sucellus slippers"
 tags = ["crochet", "knit", "runescape"]
