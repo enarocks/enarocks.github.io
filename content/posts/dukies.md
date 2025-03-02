@@ -44,7 +44,7 @@ I knit the slippers and crocheted the attachments because I prefer the feeling o
 ## Materials
 
 - Patons **Classic Wool Worsted**
-    - Dark Purple: Pansy (1 ball)
+    - Dark Purple: Pansy (2 balls)
     - Light Purple: Misty Lavender (1 ball)
     - Pink: Rose (small amount)
 - Small miscellaneous amounts of white, black, red, blue yarn
@@ -52,10 +52,6 @@ I knit the slippers and crocheted the attachments because I prefer the feeling o
 - 5mm crochet hook
 - Stuffing
 - Darning needle
-
-TODO - quantities?
-
-I bought 3 balls of the dark purple, how many did i use
 
 # The Slippers themselves
 
@@ -65,7 +61,7 @@ I really wanted to find a slipper pattern that had a separate construction for t
 
 I spent a while looking for a pattern that would work, which was a bit tricky to figure out the construction without first paying for the pattern.
 
-At first I tried to use a crochet pattern: [Space Suit](https://www.ravelry.com/patterns/library/space-suit-2) pattern by [10 Hours or Less](https://www.ravelry.com/designers/10-hours-or-less), since the Duke attachments would be crochet. I was suddenly reminded how much I hated making crochet garments; the stitches were so uncomfortable and difficult to do. I have learned now that nothing makes me more frustrated than *wrapped slip stitch* (just the words make meshudder). Nothing against the pattern, but it was not for me. I’ve accepted that I really only like crochet if I am doing single crochets in the round (like in amigurumi), otherwise I prefer knitting. I frogged the whole thing and decided I would rather knit the slippers, and then attach crocheted Duke amigurumi on top.
+At first I tried to use a crochet pattern: [Space Suit](https://www.ravelry.com/patterns/library/space-suit-2) pattern by [10 Hours or Less](https://www.ravelry.com/designers/10-hours-or-less), since the Duke attachments would be crochet. I was suddenly reminded how much I hated making crochet garments; the stitches were so uncomfortable and difficult to do. I have learned now that nothing makes me more frustrated than *wrapped slip stitch* (just the words make me shudder). Nothing against the pattern, but it was not for me. I’ve accepted that I really only like crochet if I am doing single crochets in the round (like in amigurumi), otherwise I prefer knitting. I frogged the whole thing and decided I would rather knit the slippers, and then attach crocheted Duke amigurumi on top.
 
 I ended up using the [Cosy Slipper Socks](https://www.ravelry.com/patterns/library/cosy-slipper-socks) by [Debbie Bliss](https://www.ravelry.com/designers/debbie-bliss) which had the bonus of being a [free pattern](https://www.lovecrafts.com/en-gb/p/cosy-slipper-socks-knitting-pattern-for-women-in-debbie-bliss-cashmerino-chunky-by-debbie-bliss) so that I could look at the construction first. I was still trying to wrap my mind around the visualization of the slippers through the written pattern, when I found a [video tutorial](https://www.youtube.com/watch?v=_or9mhjw2c0)! This was perfect, it confirmed to me the pattern would work for my purpose because the entire top of the slipper is knit first flat, and then the bottom is knit along the bottom to attach the two sides.
 
