@@ -1,0 +1,4 @@
+{{ define "main" }}
+	{{ .Content }}
+        {{ partial "list.html" (dict "context" . "paramposts" .RegularPages.ByPublishDate ) }}
+{{ end }}

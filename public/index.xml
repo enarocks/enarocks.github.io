@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home page on ena.rocks</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Home page on ena.rocks</description>
+    <generator>Hugo</generator>
+    <language>en-ca</language>
+    <lastBuildDate>Sun, 02 Mar 2025 12:32:09 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Making of the Dukies</title>
+      <link>http://localhost:1313/posts/dukies/</link>
+      <pubDate>Sun, 02 Mar 2025 12:32:09 -0500</pubDate>
+      <guid>http://localhost:1313/posts/dukies/</guid>
+      <description>&lt;h1 id=&#34;the-processs-of-knitting--crocheting-my-own-duke-sucellus-slippers&#34;&gt;The Processs of Knitting &amp;amp; Crocheting my own Duke Sucellus Slippers&lt;/h1&gt;&#xA;&lt;p&gt;I thought I’d start off easy with my first post, and share a pair of slippers I made based off an item in (old school) runescape. I took a lot of notes since I had to do everything twice to make a pair of slippers, so here is my pattern write-up.&lt;/p&gt;&#xA;&lt;p&gt;I realize this is a really niche topic, this pattern requires you to:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Test Post</title>
+      <link>http://localhost:1313/posts/test-post/</link>
+      <pubDate>Fri, 31 Jan 2025 19:42:09 -0500</pubDate>
+      <guid>http://localhost:1313/posts/test-post/</guid>
+      <description>&lt;p&gt;Hello, I am a test!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Second Page</title>
+      <link>http://localhost:1313/posts/second-page/</link>
+      <pubDate>Fri, 31 Jan 2025 18:14:13 +0000</pubDate>
+      <guid>http://localhost:1313/posts/second-page/</guid>
+      <description>&lt;p&gt;text&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Sun, 14 Jan 2024 07:07:07 +0000</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This line is from &amp;lsquo;content/firstpost.md&amp;rsquo;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Hi, I&amp;rsquo;m Ena and I suppose I rock! I am a software engineer with a lot of hobbies, and this is my miscellaneous blog.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://mastodon.social/@enarocks&#34;&gt;mastodon&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

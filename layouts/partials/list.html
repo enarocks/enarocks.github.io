@@ -1,0 +1,5 @@
+{{ range .paramposts.ByPublishDate.Reverse }}
+	{{ partial "titledate.html" . }}
+	{{ partial "tags.html" . }}
+        <p> {{ .Params.desc }} </p>
+{{ end }}
