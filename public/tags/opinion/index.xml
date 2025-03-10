@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Opinion on ena.rocks</title>
+    <link>http://localhost:1313/tags/opinion/</link>
+    <description>Recent content in Opinion on ena.rocks</description>
+    <generator>Hugo</generator>
+    <language>en-ca</language>
+    <lastBuildDate>Mon, 10 Mar 2025 16:00:34 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/opinion/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Users don&#39;t want AI, they want software that works</title>
+      <link>http://localhost:1313/posts/usersdontwantai/</link>
+      <pubDate>Mon, 10 Mar 2025 16:00:34 -0400</pubDate>
+      <guid>http://localhost:1313/posts/usersdontwantai/</guid>
+      <description>&lt;p&gt;&lt;em&gt;I wrote this almost 2 years ago, angry after a conference in a hotel room. I’ve cleaned it up a bit and added some recent events, but it remains largely unchanged.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt;When I was in university studying computer science all anyone wanted to talk about was ML. I was not that interested, but I noticed it more and more from students and recruiters and job listings. ML was going to change and improve everything about the world, drastically. I don’t think I heard anyone really propose a plan for that, the technology was still progressing. But of course, it was going to be the next big thing, all the companies and universities had to hop on it!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

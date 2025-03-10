@@ -1,9 +1,27 @@
 <!DOCTYPE html>
 <html lang="en" charset="utf-8">
-<head> <link rel="stylesheet" href="/style.css"> </head>
+<head> 
+<link rel="stylesheet" href="/style.css">
 {{ partial "header.html" . }}
-<body style="background-color:#fff9fa;">
+<style>
+body {
+	font-family: verdana, sans-serif;
+	background-color: #f7edf0;
+	margin-left: auto;
+	margin-right: auto;
+}
+.main{
+	align: center;
+	margin-left: auto;
+	margin-right: auto;
+	width: min(90%, 1000px);
+}
+</style>
+</head>
+<body>
+<div class="main">
 	{{ block "main" . }}
 	{{ end }}
+</div>
 </body>
 </html>
