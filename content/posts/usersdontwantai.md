@@ -1,5 +1,5 @@
 +++
-date = '2025-03-10T16:00:34-04:00'
+date = '2025-03-10T18:51:34-04:00'
 title = "Users don't want AI, they want software that works"
 desc = "How convenient we have a new two letter acronym, ML in a fancy hat, that we can use to throw tons of money and resources into with very little actual gain."
 tags = ["tech", "opinion"]
