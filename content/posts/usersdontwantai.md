@@ -19,7 +19,7 @@ I once told a manager during an interview that I wasn’t interested in ML, and 
 
 It’s been 5 years since I graduated, I fail to see any way that ML has resulted in something that meaningfully improves my life. What aspect of the technology I actively use is improved by ML?
 
-*My searches?* No, not really, I now append “Reddit” to most of the things I search, to find discussions from real people, and not content farms or long texts before every recipe that are optimized for the algorithm. Google even attempted to take advantage of this by using Reddit to train an AI, and it created tons of dangerous nonsense because it fundamentally failed to tell what kind of searches should be enhanced with Reddit. Users append “reddit” to queries when they’re looking for opinion pieces or reviews by genuine people, not when looking for recommendations like “should I eat rocks”. 
+*My searches?* No, not really, I now append “Reddit” to most of the things I search, to find discussions from real people, and not content farms or long texts before every recipe that are optimized for the algorithm.
 
 *My media?* Spotify won’t stop playing the same song I hate, no matter how many times I skip it.
 
@@ -35,27 +35,27 @@ And *now* we’re in the era of “AI”. How convenient we have a new two lette
 
 &nbsp;
 
-Sure an AI can be fun to chat to, a lot of people I know enjoy using generated AI images to make memes with friends. Not that any of them would ever pay for that, or turn off their ad blocks enough to make it worth it… Especially not when AI is basically intellectual property theft, and no one would ever want to pay enough to correctly compensating the people who’s art is used in these generators. Instead, AI copies and reproduces their art with no credit and compensation. ([Sarah Anderson wrote a great article on this](https://www.nytimes.com/2022/12/31/opinion/sarah-andersen-how-algorithim-took-my-work.html).)
+To fix the "reddit" search problem, Google attempted to train their search response AI on reddit and it created tons of dangerous nonsense. Because it fundamentally failed to tell what kind of searches *should* be "enhanced" with Reddit and why. Users append “reddit” to queries when they’re looking for opinion pieces or reviews by genuine people, not when looking for recommendations like “should I eat rocks”.
+
+The real solution would be for Google to invest in improving their search algorithm to not favour content farms and to return better and more diverse results. Imagine if a recipe didn't need multiple paragraphs about the poster's entire life story to be ranked highly. Google could even attempt fix this, and instead they chose to create even more nonsense.
+
+AI is always risky, it’s a randomness simulator that will always risk sharing inappropriate or incorrect information, especially to the wrong audience. We’re a long ways away from being able to actually trust the image or text returned from an AI. Should we ever? When the data used is always going to be biased, when the engineers will also always carry bias? Humans are biased too, but that’s not hidden by aggregating billions of data. It's much easier to analyze a person's conflict of interest than an amalgamation of all the data on the internet.
+
+Sure an AI can be fun to chat to, a lot of people I know enjoy using generated AI images to make memes with friends. Not that any of them would ever pay for that, or turn off their ad blocks enough to make it worth it… Especially not when AI is intellectual property theft, and no one would ever want to pay enough to correctly compensating the people who’s art is used in these generators. Instead, AI copies and reproduces their art with no credit and compensation. ([Sarah Anderson wrote a great article on this](https://www.nytimes.com/2022/12/31/opinion/sarah-andersen-how-algorithim-took-my-work.html).)
 
 &nbsp;
 
-But AI at the end of the day is risky, it’s a randomness simulator that could always share inappropriate information, especially to the incorrect audience. We’re a long ways away from being able to actually trust the image or text returned from an AI. Should we ever? When the data used is always going to be biased, when the engineers will also always carry bias? Humans are biased too, but that’s not hidden by aggregating billions of data. If a person has a conflict of interest, it’s much easier to see.
+What users *actually* want is for technology to work for them when they use it. They want good, seamless, and easy to use software that improves their lives. Very little of the work we do is to achieve this goal… at the least, very little of the work I do is to achieve this goal.
 
-&nbsp;
-
-What users *actually* want is for things to work when they use them. They want good, seamless, and easy to use software that improves their lives. Very little of the work we do is to achieve this goal… at the least, very little of the work I do is to achieve this goal.
-
-*When I go to the doctor*, I want to be listened to and not have my concerns dismissed. I don’t want an AI to predict what my condition is, or an AI nurse to perform my patient intake, because averages aren’t very important in individualized patient care. Instead, it’ll probably just give the doctor a reason to send me home with a temporary fix or useless prescription, as usual.
+*When I go to the doctor*, I want to be listened to and not have my concerns dismissed. I don’t want an AI to predict what my condition is, or an AI nurse to perform my patient intake, because averages aren’t important in individualized patient care. Instead, it’ll probably just give the doctor a reason to send me home with a temporary fix or useless prescription, as usual.
 
 *When I contact my internet provider*, I don’t want an AI to respond with things I’ve already tried, requiring me to type nonsense into the chat window before I finally get connected with a real person. 
 
-*When I receive a call to pickup a package*, I don’t want a robot to use voice recognition software to guess if I selected “OK” or “RETURN TO SENDER”.
-
-*When I want a new recipe*, I don’t want to read pages and pages of a generated preamble to please the content algorithms. 
+*When I want a new recipe*, I don’t want to read pages and pages of a generated preamble to please the content algorithms. Or to use algorithms to parse the generated preamble for me. 
 
 *When I look at an image*, I want the people who’s work contributed to it to receive the proper credit and compensation.
 
-*When I wake up in the morning*, I want to be excited to do my job. I want to feel like I am actually doing something.
+*When I wake up in the morning*, I want to be excited to do my job. I want to feel like I am actually doing something meaningful.
 
 &nbsp;
 

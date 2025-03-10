@@ -7,9 +7,6 @@
         <link rel="icon" href="/Icon.PNG">
 </head>
 <style>
-body {
-        margin:3%;
-}
 .centreheader {
   display: block;
   margin-left: auto;
@@ -32,23 +29,35 @@ body {
                 class="centreheader"
         >
         </a>
-        <hr>
-        <div class="bar">
-                <span> <a href="/posts/">posts</a> </span>
-		<span> <a href="/tags/">tags</a> </span>
-                <span> <a href="/about/">about</a> </span>
-        </div>
-        <hr>
+	<div class="main">
+        	<hr>
+        	<div class="bar">
+                	<span> <a href="/posts/">posts</a> </span>
+			<span> <a href="/tags/">tags</a> </span>
+                	<span> <a href="/about/">about</a> </span>
+        	</div>
+        	<hr>
+	</div>
 </header>
 
 
 <style>
 body {
 	font-family: verdana, sans-serif;
+	background-color: #f7edf0;
+	margin-left: auto;
+	margin-right: auto;
+}
+.main{
+	align: center;
+	margin-left: auto;
+	margin-right: auto;
+	width: min(90%, 1000px);
 }
 </style>
 </head>
-<body style="background-color:#f7edf0;">
+<body>
+<div class="main">
 	
 	<h1 style="display:inline"><a href="/posts/test-post/">Test Post</a></h1>
  <p style="display:inline;font-size:15px"> &nbsp;&nbsp;&nbsp; 2025-01-31 19:42 </p> 
@@ -56,5 +65,6 @@ body {
 	<div> <p>Hello, I am a test!</p>
  </div>
 
+</div>
 </body>
 </html>
