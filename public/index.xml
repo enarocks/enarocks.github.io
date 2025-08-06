@@ -37,20 +37,6 @@
       <description>&lt;p&gt;Hello, I am a test!&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Second Page</title>
-      <link>http://localhost:1313/posts/second-page/</link>
-      <pubDate>Fri, 31 Jan 2025 18:14:13 +0000</pubDate>
-      <guid>http://localhost:1313/posts/second-page/</guid>
-      <description>&lt;p&gt;text&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
-      <pubDate>Sun, 14 Jan 2024 07:07:07 +0000</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This line is from &amp;lsquo;content/firstpost.md&amp;rsquo;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>About</title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
