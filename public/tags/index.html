@@ -7,9 +7,6 @@
         <link rel="icon" href="/Icon.PNG">
 </head>
 <style>
-body {
-        margin:3%;
-}
 .centreheader {
   display: block;
   margin-left: auto;
@@ -32,27 +29,55 @@ body {
                 class="centreheader"
         >
         </a>
-        <hr>
-        <div class="bar">
-                <span> <a href="/posts/">posts</a> </span>
-		<span> <a href="/tags/">tags</a> </span>
-                <span> <a href="/about/">about</a> </span>
-        </div>
-        <hr>
+	<div class="main">
+        	<hr>
+        	<div class="bar">
+                	<span> <a href="/posts/">posts</a> </span>
+			<span> <a href="/tags/">tags</a> </span>
+                	<span> <a href="/about/">about</a> </span>
+        	</div>
+        	<hr>
+	</div>
 </header>
 
 
 <style>
 body {
 	font-family: verdana, sans-serif;
+	background-color: #f7edf0;
+	margin-left: auto;
+	margin-right: auto;
+}
+.main{
+	align: center;
+	margin-left: auto;
+	margin-right: auto;
+	width: min(90%, 1000px);
+}
+table, td {
+	border: 3px solid #ddd;
+	border-collapse: collapse;
 }
 </style>
 </head>
-<body style="background-color:#f7edf0;">
+<body>
+<div class="main">
 	
 	
 	<h2> Tags </h2>
 	<ul>
+	
+		<li>
+		<a href="/tags/blog/">Blog</a>
+		</li>	
+	
+		<li>
+		<a href="/tags/knit/">Knit</a>
+		</li>	
+	
+		<li>
+		<a href="/tags/runescape/">Runescape</a>
+		</li>	
 	
 		<li>
 		<a href="/tags/opinion/">Opinion</a>
@@ -67,18 +92,19 @@ body {
 		</li>	
 	
 		<li>
-		<a href="/tags/knit/">Knit</a>
-		</li>	
-	
-		<li>
-		<a href="/tags/runescape/">Runescape</a>
-		</li>	
-	
-		<li>
 		<a href="/tags/iamatag/">Iamatag</a>
+		</li>	
+	
+		<li>
+		<a href="/tags/chatty/">Chatty</a>
+		</li>	
+	
+		<li>
+		<a href="/tags/info/">Info</a>
 		</li>	
 	
 	</ul>
 
+</div>
 </body>
 </html>

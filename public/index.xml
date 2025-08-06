@@ -6,8 +6,15 @@
     <description>Recent content in Home page on ena.rocks</description>
     <generator>Hugo</generator>
     <language>en-ca</language>
-    <lastBuildDate>Mon, 10 Mar 2025 18:51:34 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 05 Aug 2025 21:20:24 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>August Long Weekend</title>
+      <link>http://localhost:1313/posts/augustlongweekend/</link>
+      <pubDate>Tue, 05 Aug 2025 21:20:24 -0400</pubDate>
+      <guid>http://localhost:1313/posts/augustlongweekend/</guid>
+      <description>&lt;p&gt;&lt;em&gt;written over the days of 2025-08-01 to 2025-08-04&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;the-plan&#34;&gt;The Plan&lt;/h1&gt;&#xA;&lt;p&gt;Leading up to the August long weekend, I was dreading it. I took friday off work in advance and monday was a civic holiday, so I was supposed to be looking forward to a 4 day weekend&amp;hellip; but I didn’t have any plans. My boyfriend Alex is going backpacking at Lake Superior and would barely have any signal, my local friends were all out of town, and it would be just me and my 2 cats (which I normally don&amp;rsquo;t mind). It’s also actually 3 cats, because I have to checkup on my friend’s cat occasionally to make sure she’s doing well and has water.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Users don&#39;t want AI, they want software that works</title>
       <link>http://localhost:1313/posts/usersdontwantai/</link>
@@ -28,6 +35,20 @@
       <pubDate>Fri, 31 Jan 2025 19:42:09 -0500</pubDate>
       <guid>http://localhost:1313/posts/test-post/</guid>
       <description>&lt;p&gt;Hello, I am a test!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Second Page</title>
+      <link>http://localhost:1313/posts/second-page/</link>
+      <pubDate>Fri, 31 Jan 2025 18:14:13 +0000</pubDate>
+      <guid>http://localhost:1313/posts/second-page/</guid>
+      <description>&lt;p&gt;text&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Sun, 14 Jan 2024 07:07:07 +0000</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This line is from &amp;lsquo;content/firstpost.md&amp;rsquo;&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>

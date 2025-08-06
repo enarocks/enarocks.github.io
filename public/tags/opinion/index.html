@@ -7,9 +7,6 @@
         <link rel="icon" href="/Icon.PNG">
 </head>
 <style>
-body {
-        margin:3%;
-}
 .centreheader {
   display: block;
   margin-left: auto;
@@ -32,42 +29,50 @@ body {
                 class="centreheader"
         >
         </a>
-        <hr>
-        <div class="bar">
-                <span> <a href="/posts/">posts</a> </span>
-		<span> <a href="/tags/">tags</a> </span>
-                <span> <a href="/about/">about</a> </span>
-        </div>
-        <hr>
+	<div class="main">
+        	<hr>
+        	<div class="bar">
+                	<span> <a href="/posts/">posts</a> </span>
+			<span> <a href="/tags/">tags</a> </span>
+                	<span> <a href="/about/">about</a> </span>
+        	</div>
+        	<hr>
+	</div>
 </header>
 
 
 <style>
 body {
 	font-family: verdana, sans-serif;
+	background-color: #f7edf0;
+	margin-left: auto;
+	margin-right: auto;
+}
+.main{
+	align: center;
+	margin-left: auto;
+	margin-right: auto;
+	width: min(90%, 1000px);
+}
+table, td {
+	border: 3px solid #ddd;
+	border-collapse: collapse;
 }
 </style>
 </head>
-<body style="background-color:#f7edf0;">
+<body>
+<div class="main">
 	
-	 <h2>Tag: Opinion</h2> 
 	
+	<h2> Opinion </h2>
+	<ul>
 	
-	<h1 style="display:inline"><a href="/posts/usersdontwantai/">Users don&#39;t want AI, they want software that works</a></h1>
- <p style="display:inline;font-size:15px"> &nbsp;&nbsp;&nbsp; 2025-03-10 16:00 </p> 
+		<li>
+		<a href="/posts/usersdontwantai/">Users don&#39;t want AI, they want software that works</a>
+		</li>	
+	
+	</ul>
 
-	<dd>
-
-	{<a href="http://localhost:1313/tags/tech">tech</a>}
-
-	{<a href="http://localhost:1313/tags/opinion">opinion</a>}
-
-</dd>
-
-
-        <p> How convenient we have a new two letter acronym, ML in a fancy hat, that we can use to throw tons of money and resources into with very little actual gain. </p>
-
-
-
+</div>
 </body>
 </html>
