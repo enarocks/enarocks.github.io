@@ -3,7 +3,7 @@ date = '2025-08-05T21:20:24-04:00'
 title = 'August Long Weekend'
 desc = "A (hopefully) creative blog about my weekend where I challenge myself to actually do the things I want to do"
 tags = ["blog", "knit", "runescape"]
-icon="/augustlongweekend/zknitting.jpg"
+icon="/augustlongweekend/bookcafe.jpg"
 +++
 
 *written over the days of 2025-08-01 to 2025-08-04*
