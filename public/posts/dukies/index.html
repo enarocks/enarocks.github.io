@@ -54,6 +54,19 @@ body {
 	margin-right: auto;
 	width: min(90%, 1000px);
 }
+.post{
+	display: flex;
+  	flex-direction: row;
+  	align-items: flex-start;
+}
+.thumbnail {
+  flex: 1;
+  margin-top: 10px;
+  margin-right: 10px;
+}
+.content {
+  flex: 9;
+}
 table, td {
 	border: 3px solid #ddd;
 	border-collapse: collapse;
@@ -63,8 +76,24 @@ table, td {
 <body>
 <div class="main">
 	
-	<h1 style="display:inline"><a href="/posts/dukies/">Knitting and Crocheting my own Duke Sucellus slippers</a></h1>
- <p style="display:inline;font-size:15px"> &nbsp;&nbsp;&nbsp; 2025-03-02 13:05 </p> 
+	<h1 style="display:inline">
+	<a href="/posts/dukies/">Knitting and Crocheting my own Duke Sucellus slippers</a>
+</h1>
+
+	<p style="display:inline;font-size:15px"> &nbsp;&nbsp;&nbsp; 2025-03-02 13:05 </p> 
+
+
+
+	<dd>
+
+	{<a href="http://localhost:1313/tags/crochet">crochet</a>}
+
+	{<a href="http://localhost:1313/tags/knit">knit</a>}
+
+	{<a href="http://localhost:1313/tags/runescape">runescape</a>}
+
+</dd>
+
 
 	<div> <p>I thought I’d start off easy with my first post, and share a pair of slippers I made based off an item in (old school) runescape. I took a lot of notes since I had to do everything twice to make a pair of slippers, so here is my pattern write-up.</p>
 <p>I realize this is a really niche topic, this pattern requires you to:</p>

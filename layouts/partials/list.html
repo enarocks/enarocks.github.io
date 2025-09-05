@@ -1,6 +1,12 @@
 {{ range .paramposts.ByPublishDate.Reverse }}
-	{{ partial "titledate.html" . }}
-	{{ partial "tags.html" . }}
-        <p> {{ .Params.desc }} </p>
-	<br>
+<div class="post">
+	{{ partial "icon.html" . }}
+	<div class="content">
+		{{ partial "titledate.html" . }}
+		{{ partial "tags.html" . }}
+        	<p> {{ .Params.desc }} </p>
+
+	</div>
+</div>
+<br>
 {{ end }}

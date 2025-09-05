@@ -3,6 +3,7 @@ date = '2025-08-05T21:20:24-04:00'
 title = 'August Long Weekend'
 desc = "A (hopefully) creative blog about my weekend where I challenge myself to actually do the things I want to do"
 tags = ["blog", "knit", "runescape"]
+icon="/augustlongweekend/zknitting.jpg"
 +++
 
 *written over the days of 2025-08-01 to 2025-08-04*
@@ -392,3 +393,5 @@ Zlatko just wants to add that the sweater is his until I finish his blanket. I'l
 (edit: I did finish this before Alex got back! I probably won't force it on him tonight, I'll maybe send it to him on his lunch break tomorrow hehe)
 
 (also I’ll add a little edit here with my book review once I finish it!)
+
+(edit: I finished the book! I had to force myself to, unfortunately. The book was boring, and I never got invested in the characters. Maybe it was written for a lower age level, but I felt like a lot was missing and the atmosphere failed to capture me. On to the next one!)

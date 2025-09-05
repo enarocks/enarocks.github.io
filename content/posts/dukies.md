@@ -3,6 +3,7 @@ date = '2025-03-02T13:05:09-05:00'
 title = "Knitting and Crocheting my own Duke Sucellus slippers"
 desc = "The process I used to design and make my own slippers based off a videogame"
 tags = ["crochet", "knit", "runescape"]
+icon="/dukies/final.jpg"
 +++
 
 I thought I’d start off easy with my first post, and share a pair of slippers I made based off an item in (old school) runescape. I took a lot of notes since I had to do everything twice to make a pair of slippers, so here is my pattern write-up.
