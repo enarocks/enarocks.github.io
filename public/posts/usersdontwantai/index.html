@@ -54,6 +54,24 @@ body {
 	margin-right: auto;
 	width: min(90%, 1000px);
 }
+.post{
+	display: flex;
+  	flex-direction: row;
+  	align-items: flex-start;
+}
+.thumbnail {
+ 	flex: 1;
+  	margin-top: 10px;
+  	margin-right: 10px;
+}
+@media all and (max-width: 800px) {
+  .thumbnail {
+    flex: 2;
+  }
+}
+.content {
+  	flex: 9;
+}
 table, td {
 	border: 3px solid #ddd;
 	border-collapse: collapse;
@@ -63,8 +81,22 @@ table, td {
 <body>
 <div class="main">
 	
-	<h1 style="display:inline"><a href="/posts/usersdontwantai/">Users don&#39;t want AI, they want software that works</a></h1>
- <p style="display:inline;font-size:15px"> &nbsp;&nbsp;&nbsp; 2025-03-10 18:51 </p> 
+	<h1 style="display:inline">
+	<a href="/posts/usersdontwantai/">Users don&#39;t want AI, they want software that works</a>
+</h1>
+
+	<p style="display:inline;font-size:15px"> &nbsp;&nbsp;&nbsp; 2025-03-10 18:51 </p> 
+
+
+
+	<dd>
+
+	{<a href="http://localhost:1313/tags/tech">tech</a>}
+
+	{<a href="http://localhost:1313/tags/opinion">opinion</a>}
+
+</dd>
+
 
 	<div> <p><em>I wrote this almost 2 years ago, angry after a conference in a hotel room. I’ve cleaned it up a bit and added some recent events, but it remains largely unchanged.</em></p>
 <p> </p>

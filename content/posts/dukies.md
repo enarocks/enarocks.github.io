@@ -1,7 +1,7 @@
 +++
 date = '2025-03-02T13:05:09-05:00'
 title = "Knitting and Crocheting my own Duke Sucellus slippers"
-desc = "The process I used to design and make my own slippers based off a videogame"
+desc = "The process I used to design and make my own slippers based off the game runescape"
 tags = ["crochet", "knit", "runescape"]
 icon="/dukies/final.jpg"
 +++

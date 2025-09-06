@@ -54,6 +54,24 @@ body {
 	margin-right: auto;
 	width: min(90%, 1000px);
 }
+.post{
+	display: flex;
+  	flex-direction: row;
+  	align-items: flex-start;
+}
+.thumbnail {
+ 	flex: 1;
+  	margin-top: 10px;
+  	margin-right: 10px;
+}
+@media all and (max-width: 800px) {
+  .thumbnail {
+    flex: 2;
+  }
+}
+.content {
+  	flex: 9;
+}
 table, td {
 	border: 3px solid #ddd;
 	border-collapse: collapse;
@@ -63,8 +81,20 @@ table, td {
 <body>
 <div class="main">
 	
-	<h1 style="display:inline"><a href="/posts/test-post/">Test Post</a></h1>
- <p style="display:inline;font-size:15px"> &nbsp;&nbsp;&nbsp; 2025-01-31 19:42 </p> 
+	<h1 style="display:inline">
+	<a href="/posts/test-post/">Test Post</a>
+</h1>
+
+	<p style="display:inline;font-size:15px"> &nbsp;&nbsp;&nbsp; 2025-01-31 19:42 </p> 
+
+
+
+	<dd>
+
+	{<a href="http://localhost:1313/tags/iamatag">iamatag</a>}
+
+</dd>
+
 
 	<div> <p>Hello, I am a test!</p>
  </div>
