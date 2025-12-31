@@ -6,14 +6,21 @@
     <description>Recent content in Posts on ena.rocks</description>
     <generator>Hugo</generator>
     <language>en-ca</language>
-    <lastBuildDate>Fri, 05 Sep 2025 16:38:24 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 30 Dec 2025 21:21:41 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2025: ena wrapped</title>
+      <link>http://localhost:1313/posts/2025/</link>
+      <pubDate>Tue, 30 Dec 2025 21:21:41 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2025/</guid>
+      <description>&lt;h1 id=&#34;2025&#34;&gt;2025&lt;/h1&gt;&#xA;&lt;p&gt;A little “ena wrapped” for 2025! I spent most of 2024 unable to do anything due to an injury, and slowly ramped up my ability to do things like sewing again in 2025. It was a really fun year. I don’t feel like going in depth into everything, but I’ll highlight my favourites.&lt;/p&gt;&#xA;&lt;h1 id=&#34;quickly-before-the-crafts-reading&#34;&gt;Quickly before the crafts: Reading!&lt;/h1&gt;&#xA;&lt;p&gt;I love the easy graphs Storygraph gives me. I read a LOT in January because for Christmas 2024 I got a Kobo, then it slowed down a bit through the year. I’m hoping to read one more book before the end of the year, but it might look less likely now, oops. I only gave 2 books 5 stars (both in murderbot) and that is a big drop from last year. I procrastinated reading a lot of good books and instead just read a lot of fun silly books, which rarely get 5 stars from me.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Musings on my first time quitting a job</title>
       <link>http://localhost:1313/posts/musingsonmyfirsttimequittingajob/</link>
-      <pubDate>Fri, 05 Sep 2025 16:38:24 -0400</pubDate>
+      <pubDate>Sat, 06 Sep 2025 10:21:00 -0400</pubDate>
       <guid>http://localhost:1313/posts/musingsonmyfirsttimequittingajob/</guid>
-      <description>&lt;p&gt;In my last post, I mentioned I was stressed over an interview. Well, I ended up getting an offer and accepted it, and have since officially quit my previous job. I start the new job on the upcoming Monday. Summarizing it like that makes it sound like it was fun and easy, but I’ve been so incredibly anxious and stressed during the process I feel myself returning to my high school levels of anxiety. This applies to all aspects of my life, not just work.&lt;/p&gt;</description>
+      <description>&lt;p&gt;In my last post, I mentioned I was stressed over an interview. Well, I ended up getting an offer and accepted it, and have since officially quit my previous job. I start the new job on the upcoming Monday. Summarizing it like that makes it sound like it was a fun and easy process, but I’ve been so incredibly anxious and stressed I feel myself returning to my high school levels of anxiety. This applies to all aspects of my life, not just work.&lt;/p&gt;</description>
     </item>
     <item>
       <title>August Long Weekend</title>
@@ -42,6 +49,20 @@
       <pubDate>Fri, 31 Jan 2025 19:42:09 -0500</pubDate>
       <guid>http://localhost:1313/posts/test-post/</guid>
       <description>&lt;p&gt;Hello, I am a test!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Second Page</title>
+      <link>http://localhost:1313/posts/second-page/</link>
+      <pubDate>Fri, 31 Jan 2025 18:14:13 +0000</pubDate>
+      <guid>http://localhost:1313/posts/second-page/</guid>
+      <description>&lt;p&gt;text&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Sun, 14 Jan 2024 07:07:07 +0000</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This line is from &amp;lsquo;content/firstpost.md&amp;rsquo;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

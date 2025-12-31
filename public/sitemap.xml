@@ -2,25 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/tags/blog/</loc>
-    <lastmod>2025-09-05T16:38:24-04:00</lastmod>
+    <loc>http://localhost:1313/posts/2025/</loc>
+    <lastmod>2025-12-30T21:21:41-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/books/</loc>
+    <lastmod>2025-12-30T21:21:41-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-09-05T16:38:24-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/musingsonmyfirsttimequittingajob/</loc>
-    <lastmod>2025-09-05T16:38:24-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-09-05T16:38:24-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-09-05T16:38:24-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/augustlongweekend/</loc>
-    <lastmod>2025-08-05T21:20:24-04:00</lastmod>
+    <lastmod>2025-12-30T21:21:41-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/knit/</loc>
+    <lastmod>2025-12-30T21:21:41-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-12-30T21:21:41-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/sewing/</loc>
+    <lastmod>2025-12-30T21:21:41-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-12-30T21:21:41-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/blog/</loc>
+    <lastmod>2025-09-06T10:21:00-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/musingsonmyfirsttimequittingajob/</loc>
+    <lastmod>2025-09-06T10:21:00-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/augustlongweekend/</loc>
     <lastmod>2025-08-05T21:20:24-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/runescape/</loc>
@@ -46,6 +55,18 @@
   </url><url>
     <loc>http://localhost:1313/posts/test-post/</loc>
     <lastmod>2025-01-31T19:42:09-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/chatty/</loc>
+    <lastmod>2025-01-31T18:14:13+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/info/</loc>
+    <lastmod>2025-01-31T18:14:13+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/second-page/</loc>
+    <lastmod>2025-01-31T18:14:13+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/my-first-post/</loc>
+    <lastmod>2024-01-14T07:07:07+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/about/</loc>
   </url><url>

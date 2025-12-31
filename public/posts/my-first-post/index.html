@@ -54,6 +54,24 @@ body {
 	margin-right: auto;
 	width: min(90%, 1000px);
 }
+.post{
+	display: flex;
+  	flex-direction: row;
+  	align-items: flex-start;
+}
+.thumbnail {
+ 	flex: 1;
+  	margin-top: 10px;
+  	margin-right: 10px;
+}
+@media all and (max-width: 800px) {
+  .thumbnail {
+    flex: 2;
+  }
+}
+.content {
+  	flex: 9;
+}
 table, td {
 	border: 3px solid #ddd;
 	border-collapse: collapse;
@@ -63,8 +81,20 @@ table, td {
 <body>
 <div class="main">
 	
-	<h1 style="display:inline"><a href="/posts/my-first-post/">My First Post</a></h1>
- <p style="display:inline;font-size:15px"> &nbsp;&nbsp;&nbsp; 2024-01-14 07:07 </p> 
+	<h1 style="display:inline">
+	<a href="/posts/my-first-post/">My First Post</a>
+</h1>
+
+	<p style="display:inline;font-size:15px"> &nbsp;&nbsp;&nbsp; 2024-01-14 07:07 </p> 
+
+
+
+	<dd>
+
+	{<a href="http://localhost:1313/tags/chatty">chatty</a>}
+
+</dd>
+
 
 	<div> <h2 id="introduction">Introduction</h2>
 <p>This line is from &lsquo;content/firstpost.md&rsquo;</p>

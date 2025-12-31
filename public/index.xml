@@ -6,8 +6,15 @@
     <description>Recent content in Home page on ena.rocks</description>
     <generator>Hugo</generator>
     <language>en-ca</language>
-    <lastBuildDate>Sat, 06 Sep 2025 10:21:00 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 30 Dec 2025 21:21:41 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2025: ena wrapped</title>
+      <link>http://localhost:1313/posts/2025/</link>
+      <pubDate>Tue, 30 Dec 2025 21:21:41 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2025/</guid>
+      <description>&lt;p&gt;A little “ena wrapped” for 2025! I spent most of 2024 unable to do anything due to an injury, and slowly ramped up my ability to do things like sewing again in 2025. It was a really fun year. I don’t feel like going in depth into absolutely everything, but I’ll highlight my favourites and most challenging projects, and also throw in some fun statistics like &amp;ldquo;do I actually use these things still?&amp;rdquo;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Musings on my first time quitting a job</title>
       <link>http://localhost:1313/posts/musingsonmyfirsttimequittingajob/</link>
@@ -42,6 +49,20 @@
       <pubDate>Fri, 31 Jan 2025 19:42:09 -0500</pubDate>
       <guid>http://localhost:1313/posts/test-post/</guid>
       <description>&lt;p&gt;Hello, I am a test!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Second Page</title>
+      <link>http://localhost:1313/posts/second-page/</link>
+      <pubDate>Fri, 31 Jan 2025 18:14:13 +0000</pubDate>
+      <guid>http://localhost:1313/posts/second-page/</guid>
+      <description>&lt;p&gt;text&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Sun, 14 Jan 2024 07:07:07 +0000</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This line is from &amp;lsquo;content/firstpost.md&amp;rsquo;&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
