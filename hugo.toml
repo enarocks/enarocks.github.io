@@ -2,3 +2,6 @@ baseURL = 'https://ena.rocks/'
 languageCode = 'en-ca'
 title = 'ena.rocks'
   enableInlineShortcodes = true
+[params]
+	[params.author]
+		name = 'Ena Rocks'
