@@ -13,7 +13,7 @@ body {
         align: center;
         margin-left: auto;
         margin-right: auto;
-        width: min(90%, 1000px);
+        width: min(80%, 1000px);
 }
 .post{
         display: flex;
@@ -36,4 +36,10 @@ body {
 table, td {
         border: 3px solid #ddd;
         border-collapse: collapse;
+}
+body {
+  background-image: url(/sides/left.png), url(/sides/right.png);
+  background-repeat: repeat-y;
+  background-position-x: left 0%, right 0%;
+  background-size: 10%;
 }
