@@ -6,7 +6,7 @@ tags = ["knit", "opinion"]
 icon="/findingyourself/sweater1.PNG"
 +++
 
-(*My perspective here is going to come from making my own clothing, mainly regarding knitting, but I also the perspective can apply to any creative endeavour, like making your own furniture.*)
+(*My perspective here is going to come from making my own clothing, mainly regarding knitting, but I also think the perspective can apply to any creative endeavour, like making your own furniture.*)
 
 Before I got really into making my own clothes, I would frequently buy an article of clothing and never wear it. I’d look at it and think “I should wear this more", refuse to de-clutter it, and then it would continue to sit in my closet unworn. It would make me feel guilty, annoyed at the wasted money, and frustrated with myself for making poor decisions. Sometimes I would try on the cursed article of clothing before deciding to wear something else without understanding *why*.
 
