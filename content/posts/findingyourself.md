@@ -22,7 +22,7 @@ So I took on the challenge of knitting my own sweater, and the world opened up t
 
 ## Slowing Down
 
-You’re standing in a department store (or browsing online), surrounded by more clothes at once than ever before in human history. The florescence lights are too bright and buzz just on the edge of your range of hearing. People pass by constantly. You’re too hot in your jacket but also still cold from your walk from your car to the mall. Every shirt comes in six different colours.
+You’re standing in a department store (or browsing online), surrounded by more clothes at once than ever before in human history. The fluorescent lights are too bright and buzz just on the edge of your range of hearing. People pass by constantly. You’re too hot in your jacket but also still cold from your walk from your car to the mall. Every shirt comes in six different colours.
 
 You barely even have the mental energy to consider which colour is your favourite, which colour you like to wear or would go well in your closet or society thinks you should wear or your mom won't complain about. You don't even have the time to check every piece of clothing for the materials & care tag, or even to see if the seams are already fraying. You can't even filter by material online.
 
