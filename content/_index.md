@@ -1,5 +1,5 @@
 ---
-title: "Home page"
+title: "ena.rocks"
 desc: "ena's blog"
 ---
 
