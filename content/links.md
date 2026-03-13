@@ -1,3 +1,7 @@
+---
+Title: "links"
+desc: "links to help you continue your web journey"
+---
 This page is an early work in progress and quite minimal. The goal is to link to things I find cool and let you continue on your web journey.
 
 # Things that changed my brain chemistry
