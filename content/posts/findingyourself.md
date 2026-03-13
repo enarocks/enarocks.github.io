@@ -2,7 +2,7 @@
 date = '2026-02-28T10:55:41-05:00'
 title = 'Finding Yourself in Creating for Yourself'
 desc = "my philosophy on why making things for yourself is so important"
-tags = ["knit", "opinion"]
+tags = ["knitting", "opinion"]
 icon="/findingyourself/sweater1.PNG"
 +++
 

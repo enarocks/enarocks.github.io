@@ -2,7 +2,7 @@
 date = '2025-08-05T21:20:24-04:00'
 title = 'August Long Weekend'
 desc = "A (hopefully) creative blog about my weekend where I challenge myself to actually do the things I want to do"
-tags = ["blog", "knit", "runescape"]
+tags = ["blog", "knitting", "runescape"]
 icon="/augustlongweekend/bookcafe.jpg"
 +++
 
