@@ -17,5 +17,11 @@ This page is an early work in progress and quite minimal. The goal is to link to
 ## Books
 * [The Murderbot Diaries](https://www.marthawells.com/murderbot.htm) by Martha Wells
 
+## Games
+* [Spiritfarer](https://store.steampowered.com/app/972660/Spiritfarer_Farewell_Edition/) (the only depicition of grief that's ever resonated with me) 
+* [Book of Hours](https://store.steampowered.com/app/1028310/BOOK_OF_HOURS/)
+* [Grim Fandango](https://store.steampowered.com/app/316790/Grim_Fandango_Remastered/)
+* [Return of the Obra Dinn](https://store.steampowered.com/app/653530/Return_of_the_Obra_Dinn/)
+
 # Friends
 *fuck you forgot to make them????*
