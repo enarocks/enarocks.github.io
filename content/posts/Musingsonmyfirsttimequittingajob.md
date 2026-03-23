@@ -3,7 +3,7 @@ date = '2025-09-06T10:21:00-04:00'
 title = 'Musings on my first time quitting a job'
 desc = "spoiler: It was a very emotional and difficult time, but I'm glad I did it."
 tags = ["blog"]
-icon="Musingsonmyfirsttimequittingajob/doitscared.jpg"
+icon="/Musingsonmyfirsttimequittingajob/doitscared.jpg"
 +++
 
 In my last post, I mentioned I was stressed over an interview. Well, I ended up getting an offer and accepted it, and have since officially quit my previous job. I start the new job on the upcoming Monday. Summarizing it like that makes it sound like it was a fun and easy process, but I’ve been so incredibly anxious and stressed I feel myself returning to my high school levels of anxiety. This applies to all aspects of my life, not just work. 
