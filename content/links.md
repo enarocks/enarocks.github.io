@@ -11,7 +11,7 @@ This page is an early work in progress and quite minimal. The goal is to link to
 
 ## Videos
 * [Why (almost) No One Solves this Game](https://www.youtube.com/watch?v=nSODB1CRez0) by OneShortEye
-* [You are a better writer than AI. (Yes, you.)](https://www.youtube.com/watch?v=V5wLQ-8eyQI) by josh (with parentheses)
+* [You are a better writer than AI. (Yes, you.)](https://www.youtube.com/watch?v=V5wLQ-8eyQI) and [AI and the Murder of Truth. And Air Bud.](https://www.youtube.com/watch?v=sETvPBVKBAY) by josh (with parentheses)
 * [they were both the Captive Prince](https://www.youtube.com/watch?v=KnZqLDkXGZ4) by pagemelt
 
 ## Books
@@ -22,6 +22,3 @@ This page is an early work in progress and quite minimal. The goal is to link to
 * [Book of Hours](https://store.steampowered.com/app/1028310/BOOK_OF_HOURS/)
 * [Grim Fandango](https://store.steampowered.com/app/316790/Grim_Fandango_Remastered/)
 * [Return of the Obra Dinn](https://store.steampowered.com/app/653530/Return_of_the_Obra_Dinn/)
-
-# Friends
-*fuck you forgot to make them????*
