@@ -26,7 +26,7 @@ I’m sorry but when people in 2026 talk about AI they are not talking about sma
 
 At a previous job we had an LLM team before 2020 that was generating a specific model for a specific task. In 2024, after LLMs became “the hot new thing”, they laid off the entire team because it was “cheaper” to use a generalized model and replace them with “prompt engineering”. After I left in 2025, they got rid of the entire health-focused org and moved everyone left to work on developing chat bots instead. The goal with the “age of AI” rhetoric promoted by large tech companies is not to think about small, ethical use cases for AI, it is to produce expensive slop for the masses. Whataboutisms about using AI to cure cancer are missing the point. 
 
-So I want to clarify here: when I say “AI” in this blog post, I am talking about the current marking term for generative AI and generalized LLMs that are trained on billions of stolen data to perform literally any task. There may be other things that people might call AI that do not meet this definition, but that is not the focus of this essay or the current AI hype cycle.
+So I want to clarify here: when I say “AI” in this blog post, I am talking about the current marketing term for generative AI and generalized LLMs that are trained on billions of stolen data to perform literally any task. There may be other things that people might call AI that do not meet this definition, but that is not the focus of this essay or the current AI hype cycle.
 
 ## Part 1: Volume
 
