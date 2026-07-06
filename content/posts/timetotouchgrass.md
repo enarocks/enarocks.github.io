@@ -195,3 +195,4 @@ But I also need to rest or the burnout will just get worse.
 Tour de Fleece is coming up soon though, so I will be spinning more (but at a sustainable pace). I might make a post about it, I’d love to do a little deep dive into all the spinning I’ve been doing, but I might not. I've posted some stuff on my mastodon.
 
 Good luck!
+
