@@ -3,7 +3,7 @@ date = '2026-07-05T21:28:00-04:00'
 title = "Time to touch grass"
 desc = "aka 'how much crafting did I do while camping'"
 tags = ["blog", "knitting"]
-icon="/view3.JPG"
+icon="/view3."
 +++
 
 *aka “how much crafting did I do while camping”*
@@ -54,7 +54,7 @@ My current embroidery project, where I just need to finish the edges to make it 
 
 {{< figure src="/timetotouchgrass/spinning.JPG" width="80%" class="centre" alt="various amount of red/pink fibre and two different spindles" >}}
 
-My current spinning projects! Red merino on a supported spindle (left) and hot chilies 30% mohair/70% wool on a drop spindle (right).
+My current spinning projects! Red merino on a supported spindle (left) and "hot chilies" (pink/gold) 30% mohair/70% wool on a drop spindle (right).
 
 {{< figure src="/timetotouchgrass/reading.JPG" width="80%" class="centre" alt="books from left to right: the true cost of wool, the starving saints, 52nd edition of ply magazine, appointment with death by agatha christie, my kobo" >}}
 
