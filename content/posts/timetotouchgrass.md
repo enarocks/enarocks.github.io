@@ -3,7 +3,7 @@ date = '2026-07-05T21:28:00-04:00'
 title = "Time to touch grass"
 desc = "aka 'how much crafting did I do while camping'"
 tags = ["blog", "knitting"]
-icon="/view3."
+icon="/timetotouchgrass/view3.JPG"
 +++
 
 *aka “how much crafting did I do while camping”*
