@@ -1,5 +1,5 @@
 {{ define "main" }}
 	{{ .Content }}
 	{{ $gallery := site.GetPage "gallery" }}
-	{{ partial "grid.html" (dict "context" . "paramposts" $gallery.RegularPages.ByPublishDate ) }}
+	{{ partial "grid.html" (dict "context" . "paramposts" $gallery.RegularPages ) }}
 {{ end }}

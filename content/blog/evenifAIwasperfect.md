@@ -2,7 +2,7 @@
 date = '2026-05-10T20:26:00-04:00'
 title = "Even if AI was perfect I wouldn't want to use it"
 desc = "AI is slop, but not only because it's wrong"
-tags = ["tech", "opinion"]
+tags = ["tech", "persuasive"]
 icon="/evenifAIwasperfect/shirt.png"
 +++
 

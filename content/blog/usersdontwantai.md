@@ -2,7 +2,7 @@
 date = '2025-03-10T18:51:34-04:00'
 title = "Users don't want AI, they want software that works"
 desc = "How convenient we have a new two letter acronym, ML in a fancy hat, that we can use to throw tons of money and resources into with very little actual gain."
-tags = ["tech", "opinion"]
+tags = ["blog", "tech", "persuasive"]
 +++
 
 *I wrote this almost 2 years ago, angry after a conference in a hotel room. I’ve cleaned it up a bit and added some recent events, but it remains largely unchanged.* 

@@ -1,6 +1,7 @@
 <dd>
 {{ range .Params.tags }}
-	{<a href="{{ add (absURL `tags/`) (.) }}">{{ . }}</a>}
+    {{ if not (or (eq . "blog") (eq . "gallery")) }}
+        <a href="{{ add (absURL `tags/`) (.) }}">{{ . }}</a>
+    {{end}}
 {{ end }}
 </dd>
-

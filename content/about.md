@@ -3,8 +3,10 @@ title = 'About'
 desc = 'about ena'
 +++
 
-Hi, I'm Ena (ɛna not ina) and I suppose I rock! I am a software engineer with a lot of hobbies (knitting, sewing, spinning, reading, writing), and this is my miscellaneous blog. There is no theme or common interest, it's about whatever is interesting me, which is a wide range of topics. I am *not* a frontend developer so this website is pretty basic, I might slowly improve it. 
+Hi, I'm Ena (ɛna not ina) and I suppose I rock! I am a software engineer with a lot of hobbies (knitting, sewing, spinning, reading, writing), and this is my miscellaneous blog. There is no theme or common interest, it's about whatever is interesting me, which is a wide range of topics. 
+
+I am *not* a frontend developer so this website is pretty basic, I will slowly work to improve it. I made the website using Hugo, a static-site generator that lets you use a more Go-like syntax, which is much more familliar to me. But I'm dipping my toes into html and css for the first time!
 
 I'm told this link will allow you hook up an RSS feed as you desire: https://ena.rocks/index.xml
 
-Feel free to message me on [mastodon](https://mastodon.social/@enarocks) or keep up with my knits and spins on [ravelry](https://www.ravelry.com/people/enarocks).
+Feel free to message me on [mastodon](https://mastodon.social/@enarocks) or see my [ravelry](https://www.ravelry.com/people/enarocks).

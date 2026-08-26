@@ -1,6 +1,4 @@
 {{ define "main" }}
 	{{ .Content }}
-	This page is a work in progress.
-	;; TODO ADD FILTERS
-	{{ partial "grid.html" (dict "context" . "paramposts" .RegularPages.ByPublishDate ) }}
+	{{ partial "grid.html" (dict "context" . "paramposts" .RegularPages ) }}
 {{ end }}

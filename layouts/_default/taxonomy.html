@@ -1,11 +1,10 @@
 {{ define "main" }}
 	{{ .Content }}
-	<h2> {{ .Title }} </h2>
-	<ul>
-	{{ range .Pages }}
-		<li>
-		<a href="{{ .RelPermalink  }}">{{ .Title }}</a>
-		</li>	
-	{{ end }}
-	</ul>
+	<h1> Tag: {{ .Title }} </h1>
+	<h2> Gallery </h2>
+	{{ $gallery := .Pages.RelatedTo (keyVals "tags" "gallery") }}
+	{{ partial "grid.html" (dict "context" . "paramposts" $gallery ) }}
+	<h2> Blogs </h2>
+	{{ $blogs := .Pages.RelatedTo (keyVals "tags" "blog") }}
+	{{ partial "list.html" (dict "context" . "paramposts" $blogs ) }}
 {{ end }}

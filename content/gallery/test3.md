@@ -1,9 +1,9 @@
 +++
 date = '2025-01-31T19:42:09-05:00'
-title = 'todo'
+title = 'long sock'
 desc = "todo"
-tags = ["todo"]
-icon = "/todo.JPG"
+tags = ["gallery", "csm"]
+icon = "/findingyourself/csm.jpeg"
 draft = true
 +++
 
