@@ -2,9 +2,7 @@
 {{ range .paramposts.ByPublishDate.Reverse }}
 <div>
     <div style="display:flex; gap:1em; justify-content: space-between; padding: 0px">
-    <p style="color: #7a1223; margin-top:0px; margin-bottom:0px;">
-    {{ .Title }}
-    </p>
+    <h4 style="margin-top:0px;margin-bottom:0px;"> <a href="{{ .RelPermalink  }}">{{ .Title }}</a> </h4>
     <p style="margin-top:0px; margin-bottom:0px;">
     {{ range .Params.tags }}
         {{ if not (eq . "gallery") }}

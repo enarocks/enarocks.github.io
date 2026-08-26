@@ -4,6 +4,13 @@ body {
         margin-left: auto;
         margin-right: auto;
 }
+a:link {
+        color: #821C4A;
+        text-decoration:none;
+}
+a:visited, a:link:active, a:visited:active {
+        color: #00522E;
+}
 
 
 .main{
@@ -45,10 +52,15 @@ body {
         row-gap: 10px;
 }
 .grid div {
-        background-color: pink;
-        border: 1px solid pink;
+        background-color: #fcd4da;
+        border: 1px solid #fcd4da;
         border-radius: 20px;
         padding: 10px;
+}
+.filters {
+        background-color: #fcd4da;
+        border: 10px solid #fcd4da;
+        border-radius: 20px;
 }
 
 table, td {
@@ -74,4 +86,8 @@ body {
         justify-content: space-between;
         margin-left:20%;
         margin-right:20%;
+}
+
+hr {
+        color: #009052;
 }

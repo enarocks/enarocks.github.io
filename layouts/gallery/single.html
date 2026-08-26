@@ -1,0 +1,9 @@
+{{ define "main" }}
+    {{ partial "titletags.html" . }}
+    <br>
+    <p> Started: {{ time.Format "2006-01-02" .Params.startdate }}, Finished: {{ time.Format "2006-01-02" .PublishDate }} </p>
+
+	<img src="{{ .Params.icon }}" width=75%>
+
+	<div> {{ .Content }} </div>
+{{ end }}

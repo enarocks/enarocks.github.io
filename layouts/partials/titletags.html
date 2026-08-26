@@ -1,0 +1,13 @@
+<h1 style="display:inline">
+<a href="{{ .RelPermalink  }}">{{ .Title }}</a>
+</h1>
+<p style="display:inline">
+&nbsp;&nbsp;&nbsp;
+{{ range .Params.tags }}
+	{{ if not (eq . "gallery") }}
+		<a href="{{ add (absURL `tags/`) (.) }}">{{ . }}</a>
+	{{ end }}
+{{ end }}
+</p>
+
+

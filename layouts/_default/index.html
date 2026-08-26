@@ -1,5 +1,7 @@
 {{ define "main" }}
 	{{ .Content }}
+	<p> This page is a work in progress and is missing a lot of posts! Coming soon :) </p>
+	<br>
 	{{ $gallery := site.GetPage "gallery" }}
 	{{ partial "grid.html" (dict "context" . "paramposts" $gallery.RegularPages ) }}
 {{ end }}

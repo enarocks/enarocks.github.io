@@ -1,5 +1,7 @@
 {{ define "main" }}
-	{{ partial "titledate.html" . }}
-	{{ partial "tags.html" . }}
+	{{ partial "titletags.html" . }}
+	{{ if .PublishDate }}
+	<p style="display:inline;font-size:15px"> {{ time.Format "2006-01-02 15:04" .PublishDate }} </p>
+	{{ end }}
 	<div> {{ .Content }} </div>
 {{ end }}
