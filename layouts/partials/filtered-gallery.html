@@ -1,0 +1,3 @@
+{{ partial "filter-options.html" (dict "context " . "paramhighlight" .paramtype) }}
+{{ $filteredpages := (site.GetPage "gallery").RegularPages.RelatedTo (keyVals "tags" .paramtype) }}
+{{ partial "gallery-grid.html" (dict "context" . "paramposts" $filteredpages ) }}

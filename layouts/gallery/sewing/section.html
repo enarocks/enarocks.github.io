@@ -1,0 +1,4 @@
+{{ define "main" }}
+	{{ .Content }}
+	{{ partial "filtered-gallery.html" (dict "context " . "paramtype" "sewing") }}
+{{ end }}

@@ -1,16 +1,9 @@
-<div class="grid">
+<div class="gallerygrid">
 {{ range .paramposts.ByPublishDate.Reverse }}
 <div>
     <div style="display:flex; gap:1em; justify-content: space-between; padding: 0px">
     <h4 style="margin-top:0px;margin-bottom:0px;"> <a href="{{ .RelPermalink  }}">{{ .Title }}</a> </h4>
-    <p style="margin-top:0px; margin-bottom:0px;">
-    {{ range .Params.tags }}
-        {{ if not (eq . "gallery") }}
-            <a href="{{ add (absURL `tags/`) (.) }}">{{ . }}</a>
-        {{ end }}
-    {{ end }}
-    </p>
-    </div>
+    <p style="margin-top:0px; margin-bottom:0px;">{{ time.Format "2006-01-02" .PublishDate }}</p>        </div>
     <a href="{{ .RelPermalink  }}">
         <img src="{{ .Params.icon }}" class="galleryThumbnail">
     </a>

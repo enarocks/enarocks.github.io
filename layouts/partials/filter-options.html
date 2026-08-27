@@ -1,0 +1,48 @@
+<div style="display:flex; gap:1em; justify-content: center; padding: 0px;"> <!--background-color: #009052; border: 10px solid #009052; border-radius: 20px;-->
+{{ if (eq .paramhighlight "knitting") }}
+    <div class="filter-selected">
+        <a href="/gallery/knitting">Knitting</a>
+    </div>
+{{ else }}
+    <div class="filters">
+        <a href="/gallery/knitting">Knitting</a>
+    </div>
+{{ end }}
+{{ if (eq .paramhighlight "spinning") }}
+    <div class="filter-selected">
+        <a href="/gallery/spinning">Spinning</a>
+    </div>
+{{ else }}
+    <div class="filters">
+        <a href="/gallery/spinning">Spinning</a>
+    </div>
+{{ end }}
+{{ if (eq .paramhighlight "sewing") }}
+    <div class="filter-selected">
+        <a href="/gallery/sewing">Sewing</a>
+    </div>
+{{ else }}
+    <div class="filters">
+        <a href="/gallery/sewing">Sewing</a>
+    </div>
+{{ end }}
+{{ if (eq .paramhighlight "csm") }}
+    <div class="filter-selected">
+        <a href="/gallery/csm">Sock Machine</a>
+    </div>
+{{ else }}
+    <div class="filters">
+        <a href="/gallery/csm">Sock Machine</a>
+    </div>
+{{ end }}
+{{ if (eq .paramhighlight "crochet") }}
+    <div class="filter-selected">
+        <a href="/gallery/crochet">Crochet</a>
+    </div>
+{{ else }}
+    <div class="filters">
+        <a href="/gallery/crochet">Crochet</a>
+    </div>
+{{ end }}
+</div>
+<hr>
